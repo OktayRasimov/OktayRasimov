@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oktay Rasimov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
+---
+Currently Learning React to the MAX
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/okitoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="okitoo" height="30" width="40" /></a>
