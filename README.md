@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oktay Rasimov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Supabase**
+- 🌱 I’m currently learning **Supabase** and **Node.js+ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://oktayrasimov.github.io/personal-project/](https://oktayrasimov.github.io/personal-project/)
 
