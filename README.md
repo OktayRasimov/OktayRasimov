@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://oktayrasimov.github.io/personal-project/](https://oktayrasimov.github.io/personal-project/)
 
+- 🛠 Making my projects better by the day
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oktayrasimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oktayrasimov" height="30" width="40" /></a>
