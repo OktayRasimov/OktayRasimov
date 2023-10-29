@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Supabase** and **Node.js+ecosystem**
 
+- 🚀 Pushing to be a Professional MERN dev
+
 - 👨‍💻 All of my projects are available at [https://oktayrasimov.github.io/personal-project/](https://oktayrasimov.github.io/personal-project/)
 
 - 🛠 Making my projects better by the day
