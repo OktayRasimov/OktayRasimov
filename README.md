@@ -14,7 +14,7 @@
   <br>
   🚀 Pushing to be a Professional MERN dev
   <br>
-  👨‍💻 All of my projects are available at [https://oktayrasimov.github.io/personal-project/](https://oktayrasimov.github.io/personal-project/)
+  👨‍💻 All of my projects are available at [personal-project](https://oktayrasimov.github.io/personal-project/)
   <br>
   🛠 Making my projects better by the day
   <br>
