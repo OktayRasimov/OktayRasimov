@@ -23,8 +23,8 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+
  
 <table><tr><td valign="top" width="33%">
 
