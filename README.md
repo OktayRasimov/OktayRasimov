@@ -62,15 +62,15 @@
 
 ### Other Tools  
 <div align="center">  
-<code><img title="FramerMotion" height="45" src="images/framermotion.png"></code>  
-<code><img title="GSAP" height="45" src="images/gsap.png"></code>  
-<code><img title="Git" height="45" src="images/git.png"></code>  
-<code><img title="GitHub" height="45" src="images/github.png"></code>  
-<code><img title="Heroku" height="45" src="images/heroku.png"></code>  
-<code><img title="Vercel" height="45" src="images/vercel.png"></code>  
-<code><img title="Netlify" height="45" src="images/netlify.png"></code>  
-<code><img title="Jest" height="45" src="images/jest.png"></code>  
-<code><img title="GitKraken" height="45" src="images/gitkraken.png"></code>  
+<code><img style="margin: 10px" title="FramerMotion" height="45" src="images/framermotion.png"></code>  
+<code><img style="margin: 10px" title="GSAP" height="45" src="images/gsap.png"></code>  
+<code><img style="margin: 10px" title="Git" height="45" src="images/git.png"></code>  
+<code><img style="margin: 10px" title="GitHub" height="45" src="images/github.png"></code>  
+<code><img style="margin: 10px" title="Heroku" height="45" src="images/heroku.png"></code>  
+<code><img style="margin: 10px" title="Vercel" height="45" src="images/vercel.png"></code>  
+<code><img style="margin: 10px" title="Netlify" height="45" src="images/netlify.png"></code>  
+<code><img style="margin: 10px" title="Jest" height="45" src="images/jest.png"></code>  
+<code><img style="margin: 10px" title="GitKraken" height="45" src="images/gitkraken.png"></code>  
 </div>
 
 </td></tr></table>  
