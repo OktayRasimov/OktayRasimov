@@ -8,17 +8,19 @@
   <code><a href="https://www.instagram.com/okito__/" title="Instagram Profile"><img width="25" src="images/instagram.png"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
+<p align=left">
   <br>
-  🌱 I’m currently learning the weird parts of React and node.js + ecosystem
+  - 🌱 &nbsp;I’m currently learning the weird parts of React and node.js + ecosystem
   <br>
-  🚀 Pushing to be a Professional MERN dev
+  - 🚀 &nbsp;Pushing to be a Professional MERN dev
   <br>
-  👨‍💻 All of my projects are available at https://oktayrasimov.github.io/personal-project/
+  - 👨‍💻 &nbsp;All of my projects are available at https://oktayrasimov.github.io/personal-project/
   <br>
-  🛠 Making my projects better by the day
+  - 🛠  &nbsp;Making my projects better by the day
   <br>
-  💬 If you have any questions about React please DM me at <a href="https://www.instagram.com/okito__/">ig</a> 
+  - 💬 &nbsp;Ask me about anything related to Javascript/React
+  <br>
+  - 🎮 &nbsp;Discord tag&nbsp;:&nbsp;faceit100
   
 </p>
 
