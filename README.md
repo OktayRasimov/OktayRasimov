@@ -31,7 +31,7 @@
 
 
 <h3 align='center'>FrontEnd</h1>
-<div align="center">  
+<div align="center" display='flex'>  
 <code><img title="JavaScript" height="25" src="images/js.png"></code>
 <code><img title="HTML" height="25" src="images/html.png"></code>
 <code><img title="CSS" height="25" src="images/css.png"></code>
