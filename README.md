@@ -51,9 +51,10 @@
 <h3 align='center'>BackEnd</h3>
 <div align="center">  
 <code><img style="margin: 10px" title="NodeJS" height="45" src="images/node.png"></code> 
-<code><img style="margin: 10px" title="NodeJS" height="45" src="images/express.png"></code> 
-<code><img style="margin: 10px" title="NodeJS" height="45" src="images/mongoDB.png"></code> 
-<code><img style="margin: 10px" title="NodeJS" height="45" src="images/mongoose.png"></code> 
+<code><img style="margin: 10px" title="express.js" height="45" src="images/express.png"></code> 
+<code><img style="margin: 10px" title="MongoDB" height="45" src="images/mongoDB.png"></code> 
+<code><img style="margin: 10px" title="Mongoose" height="45" src="images/mongoose.png"></code> 
+<code><img style="margin: 10px" title="Supabase" height="45" src="images/supabase.png"></code> 
 </div>
 
 </td><td valign="top" width="33%">
