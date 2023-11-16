@@ -32,15 +32,15 @@
 
 <h3 align='center'>FrontEnd</h1>
 <div align="center">  
-<code><img title="JavaScript" height="35" src="images/js.png"></code>
-<code><img title="HTML" height="35" src="images/html.png"></code>
-<code><img title="CSS" height="35" src="images/css.png"></code>
-<code><img title="React" height="35" src="images/react.png"></code>
-<code><img title="ReactQuery" height="35" src="images/reactQuery.png"></code>
-<code><img title="Redux" height="35" src="images/redux.png"></code>
-<code><img title="SASS" height="35" src="images/sass.png"></code>
-<code><img title="StyledComponents" height="35" src="images/styledComponents.png"></code>
-<code><img title="Tailwind" height="35" src="images/tailwind.png"></code>
+<code><img title="JavaScript" height="45" src="images/js.png"></code>
+<code><img title="HTML" height="45" src="images/html.png"></code>
+<code><img title="CSS" height="45" src="images/css.png"></code>
+<code><img title="React" height="45" src="images/react.png"></code>
+<code><img title="ReactQuery" height="45" src="images/reactQuery.png"></code>
+<code><img title="Redux" height="45" src="images/redux.png"></code>
+<code><img title="SASS" height="45" src="images/sass.png"></code>
+<code><img title="StyledComponents" height="45" src="images/styledComponents.png"></code>
+<code><img title="Tailwind" height="45" src="images/tailwind.png"></code>
 </div>
 
 </td><td valign="top" width="33%">
