@@ -38,6 +38,7 @@
 <code><img title="React" height="45" src="images/react.png"></code>
 <code><img title="ReactQuery" height="45" src="images/reactQuery.png"></code>
 <code><img title="Redux" height="45" src="images/redux.png"></code>
+<code><img title="TypeScript" height="45" src="images/typescript.png"></code>
 <code><img title="SASS" height="45" src="images/sass.png"></code>
 <code><img title="StyledComponents" height="45" src="images/styledComponents.png"></code>
 <code><img title="Tailwind" height="45" src="images/tailwind.png"></code>
@@ -49,9 +50,10 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<code><img title="NodeJS" height="45" src="images/node.png"></code> 
+<code><img title="NodeJS" height="45" src="images/express.png"></code> 
+<code><img title="NodeJS" height="45" src="images/mongoDB.png"></code> 
+<code><img title="NodeJS" height="45" src="images/mongoose.png"></code> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -60,8 +62,15 @@
 
 ### Other Tools  
 <div align="center">  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<code><img title="FramerMotion" height="45" src="images/framermotion.png"></code>  
+<code><img title="GSAP" height="45" src="images/gsap.png"></code>  
+<code><img title="Git" height="45" src="images/git.png"></code>  
+<code><img title="GitHub" height="45" src="images/github.png"></code>  
+<code><img title="Heroku" height="45" src="images/heroku.png"></code>  
+<code><img title="Vercel" height="45" src="images/vercel.png"></code>  
+<code><img title="Netlify" height="45" src="images/netlify.png"></code>  
+<code><img title="Jest" height="45" src="images/jest.png"></code>  
+<code><img title="GitKraken" height="45" src="images/gitkraken.png"></code>  
 </div>
 
 </td></tr></table>  
