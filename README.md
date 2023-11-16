@@ -33,6 +33,14 @@
 <h3 align='center'>FrontEnd</h1>
 <div align="center">  
 <code><img title="JavaScript" height="25" src="images/js.png"></code>
+<code><img title="HTML" height="25" src="images/html.png"></code>
+<code><img title="CSS" height="25" src="images/css.png"></code>
+<code><img title="React" height="25" src="images/react.png"></code>
+<code><img title="ReactQuery" height="25" src="images/reactQuery.png"></code>
+<code><img title="Redux" height="25" src="images/redux.png"></code>
+<code><img title="SASS" height="25" src="images/sass.png"></code>
+<code><img title="StyledComponents" height="25" src="images/styledComponents.png"></code>
+<code><img title="Tailwind" height="25" src="images/tailwind.png"></code>
 </div>
 
 </td><td valign="top" width="33%">
