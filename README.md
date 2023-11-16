@@ -10,7 +10,7 @@
 <br>
 <p align="center">
   <br>
- 🌱 I’m currently learning Supabase and Node.js+ecosystem
+  🌱 I’m currently learning the weird parts of React and node.js + ecosystem
   <br>
   🚀 Pushing to be a Professional MERN dev
   <br>
@@ -18,7 +18,7 @@
   <br>
   🛠 Making my projects better by the day
   <br>
-  💻 I love writing code and learn anythings about it
+  💬 If you have any questions about React please DM me at <a href="https://www.instagram.com/okito__/">ig</a> 
   
 </p>
 
