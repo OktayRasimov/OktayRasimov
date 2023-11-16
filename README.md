@@ -30,7 +30,7 @@
 
 
 
-<h3 align='center'>FrontEnd</h1>
+<h3 align='center'>FrontEnd</h3>
 <div align="center">  
 <code><img style="margin: 10px" title="JavaScript" height="45" src="images/js.png"></code>
 <code><img style="margin: 10px" title="HTML" height="45" src="images/html.png"></code>
@@ -48,7 +48,7 @@
 
 
 
-### Backend  
+<h3 align='center'>BackEnd</h3>
 <div align="center">  
 <code><img style="margin: 10px" title="NodeJS" height="45" src="images/node.png"></code> 
 <code><img style="margin: 10px" title="NodeJS" height="45" src="images/express.png"></code> 
@@ -60,7 +60,7 @@
 
 
 
-### Other Tools  
+<h3 align='center'>Other Tools</h3>
 <div align="center">  
 <code><img style="margin: 10px" title="FramerMotion" height="45" src="images/framermotion.png"></code>  
 <code><img style="margin: 10px" title="GSAP" height="45" src="images/gsap.png"></code>  
