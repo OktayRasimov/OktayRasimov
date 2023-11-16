@@ -23,7 +23,7 @@
 </p>
 
 <hr>
-<h2 style="margin: 10px" align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 
  
