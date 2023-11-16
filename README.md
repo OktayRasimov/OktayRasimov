@@ -32,16 +32,16 @@
 
 <h3 align='center'>FrontEnd</h1>
 <div align="center">  
-<code><img title="JavaScript" height="45" src="images/js.png"></code>
-<code><img title="HTML" height="45" src="images/html.png"></code>
-<code><img title="CSS" height="45" src="images/css.png"></code>
-<code><img title="React" height="45" src="images/react.png"></code>
-<code><img title="ReactQuery" height="45" src="images/reactQuery.png"></code>
-<code><img title="Redux" height="45" src="images/redux.png"></code>
-<code><img title="TypeScript" height="45" src="images/typescript.png"></code>
-<code><img title="SASS" height="45" src="images/sass.png"></code>
-<code><img title="StyledComponents" height="45" src="images/styledComponents.png"></code>
-<code><img title="Tailwind" height="45" src="images/tailwind.png"></code>
+<code><img style="margin: 10px" title="JavaScript" height="45" src="images/js.png"></code>
+<code><img style="margin: 10px" title="HTML" height="45" src="images/html.png"></code>
+<code><img style="margin: 10px" title="CSS" height="45" src="images/css.png"></code>
+<code><img style="margin: 10px" title="React" height="45" src="images/react.png"></code>
+<code><img style="margin: 10px" title="ReactQuery" height="45" src="images/reactQuery.png"></code>
+<code><img style="margin: 10px" title="Redux" height="45" src="images/redux.png"></code>
+<code><img style="margin: 10px" title="TypeScript" height="45" src="images/typescript.png"></code>
+<code><img style="margin: 10px" title="SASS" height="45" src="images/sass.png"></code>
+<code><img style="margin: 10px" title="StyledComponents" height="45" src="images/styledComponents.png"></code>
+<code><img style="margin: 10px" title="Tailwind" height="45" src="images/tailwind.png"></code>
 </div>
 
 </td><td valign="top" width="33%">
@@ -50,10 +50,10 @@
 
 ### Backend  
 <div align="center">  
-<code><img title="NodeJS" height="45" src="images/node.png"></code> 
-<code><img title="NodeJS" height="45" src="images/express.png"></code> 
-<code><img title="NodeJS" height="45" src="images/mongoDB.png"></code> 
-<code><img title="NodeJS" height="45" src="images/mongoose.png"></code> 
+<code><img style="margin: 10px" title="NodeJS" height="45" src="images/node.png"></code> 
+<code><img style="margin: 10px" title="NodeJS" height="45" src="images/express.png"></code> 
+<code><img style="margin: 10px" title="NodeJS" height="45" src="images/mongoDB.png"></code> 
+<code><img style="margin: 10px" title="NodeJS" height="45" src="images/mongoose.png"></code> 
 </div>
 
 </td><td valign="top" width="33%">
