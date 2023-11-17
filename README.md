@@ -24,8 +24,7 @@
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
--&nbsp;I’m currently learning the weird parts of React and node.js + ecosystem
-  <br>
+-I’m currently learning the weird parts of React and node.js + ecosystem
 ```
 
 <hr>
