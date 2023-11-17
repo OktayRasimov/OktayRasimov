@@ -10,8 +10,6 @@
 <br>
 <p align=left">
   <br>
-  - 🌱 &nbsp;I’m currently learning the weird parts of React and node.js + ecosystem
-  <br>
   - 🚀 &nbsp;Pushing to be a Professional MERN dev
   <br>
   - 👨‍💻 &nbsp;All of my projects are available at https://oktayrasimov.github.io/personal-project/
@@ -23,6 +21,12 @@
   - 🎮 &nbsp;Discord tag&nbsp;:&nbsp;faceit100
   
 </p>
+
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```yaml
+-&nbsp;I’m currently learning the weird parts of React and node.js + ecosystem
+  <br>
+```
 
 <hr>
 <h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
