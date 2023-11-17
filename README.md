@@ -21,7 +21,8 @@
   - 🎮 &nbsp;Discord tag&nbsp;:&nbsp;faceit100
   
 </p>
-
+<hr>
+<br>
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 -I’m currently learning the weird parts of React and node.js + ecosystem
