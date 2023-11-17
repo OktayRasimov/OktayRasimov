@@ -10,15 +10,15 @@
 <br>
 <p align=left">
   <br>
-  - 🚀 &nbsp;Pushing to be a Professional MERN dev
+  - 🚀 &nbsp;𝘗𝘶𝘴𝘩𝘪𝘯𝘨 𝘵𝘰 𝘣𝘦 𝘢 𝘗𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘔𝘌𝘙𝘕 𝘥𝘦𝘷
   <br>
-  - 👨‍💻 &nbsp;All of my projects are available at https://oktayrasimov.github.io/personal-project/
+  - 👨‍💻 &nbsp;𝘈𝘭𝘭 𝘰𝘧 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘳𝘦 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 𝘢𝘵 𝘩𝘵𝘵𝘱𝘴://𝘰𝘬𝘵𝘢𝘺𝘳𝘢𝘴𝘪𝘮𝘰𝘷.𝘨𝘪𝘵𝘩𝘶𝘣.𝘪𝘰/𝘱𝘦𝘳𝘴𝘰𝘯𝘢𝘭-𝘱𝘳𝘰𝘫𝘦𝘤𝘵/
   <br>
-  - 🛠  &nbsp;Making my projects better by the day
+  - 🛠  &nbsp;𝘔𝘢𝘬𝘪𝘯𝘨 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘣𝘦𝘵𝘵𝘦𝘳 𝘣𝘺 𝘵𝘩𝘦 𝘥𝘢𝘺
   <br>
-  - 💬 &nbsp;Ask me about anything related to Javascript/React
+  - 💬 &nbsp;𝘈𝘴𝘬 𝘮𝘦 𝘢𝘣𝘰𝘶𝘵 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨 𝘳𝘦𝘭𝘢𝘵𝘦𝘥 𝘵𝘰 𝘑𝘢𝘷𝘢𝘴𝘤𝘳𝘪𝘱𝘵/𝘙𝘦𝘢𝘤𝘵
   <br>
-  - 🎮 &nbsp;Discord tag&nbsp;:&nbsp;faceit100
+  - 🎮 &nbsp;𝘋𝘪𝘴𝘤𝘰𝘳𝘥 𝘵𝘢𝘨&nbsp;:&nbsp;𝘧𝘢𝘤𝘦𝘪𝘵100
   
 </p>
 <hr>
@@ -29,7 +29,7 @@
 ```
 
 <hr>
-<h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
+<h3 align="center">🔥 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 & 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 & 𝘛𝘰𝘰𝘭𝘴 🔥</h3>
 <br>
 
  
@@ -37,7 +37,7 @@
 
 
 
-<h3 align='center'>FrontEnd</h3>
+<h3 align='center'>𝗙𝗿𝗼𝗻𝘁 𝗘𝗻𝗱</h3>
 <div align="center">  
 <code><img style="margin: 10px" title="JavaScript" height="45" src="images/js.png"></code>
 <code><img style="margin: 10px" title="HTML" height="45" src="images/html.png"></code>
@@ -55,7 +55,7 @@
 
 
 
-<h3 align='center'>BackEnd</h3>
+<h3 align='center'>𝗕𝗮𝗰𝗸𝗘𝗻𝗱</h3>
 <div align="center">  
 <code><img style="margin: 10px" title="NodeJS" height="45" src="images/node.png"></code> 
 <code><img style="margin: 10px" title="express.js" height="45" src="images/express.png"></code> 
@@ -68,7 +68,7 @@
 
 
 
-<h3 align='center'>Other Tools</h3>
+<h3 align='center'>𝗢𝘁𝗵𝗲𝗿 𝗧𝗼𝗼𝗹𝘀</h3>
 <div align="center">  
 <code><img style="margin: 10px" title="FramerMotion" height="45" src="images/framermotion.png"></code>  
 <code><img style="margin: 10px" title="GSAP" height="45" src="images/gsap.png"></code>  
@@ -84,7 +84,7 @@
 </td></tr></table>  
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ 𝗦𝘁𝗮𝘁𝘀 ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -102,7 +102,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/OktayRasimov/pin-point" title="PinPoint"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayrasimov&repo=pin-point&theme=react&border_color=61dafb&border_radius=10"></a>
