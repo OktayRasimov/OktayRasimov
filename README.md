@@ -85,7 +85,7 @@
 <p align=center>
   <div align=center>
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=oktayrasimov&theme=react&show_icons=true&hide_border=false&count_private=true" alt="profile-readme" />
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=oktayrasimov&theme=reactk&hide_border=false" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=oktayrasimov&theme=react&hide_border=false" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
