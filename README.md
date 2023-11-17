@@ -85,22 +85,21 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=oktayrasimov&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="profile-readme" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=oktayrasimov&theme=react&show_icons=true&hide_border=false&count_private=true" alt="profile-readme" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=oktayrasimov&theme=dark&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=oktayrasimov&theme=reactk&hide_border=false" />
     </a>
-    
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayrasimov&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayrasimov&theme=react&show_icons=true&hide_border=false&layout=compact" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oktayrasimov&theme=dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oktayrasimov&theme=react&bg_color=20232a&hide_border=false" width="100%"/>
 </p>
 
 <hr>
