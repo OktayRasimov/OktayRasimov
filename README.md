@@ -73,6 +73,8 @@
 <code><img style="margin: 10px" title="Netlify" height="45" src="images/netlify.png"></code>  
 <code><img style="margin: 10px" title="Jest" height="45" src="images/jest.png"></code>  
 <code><img style="margin: 10px" title="GitKraken" height="45" src="images/gitkraken.png"></code>  
+<code><img style="margin: 10px" title="Webpack" height="45" src="images/webpack.png"></code>  
+<code><img style="margin: 10px" title="MaterialUi" height="45" src="images/materialui.png"></code>  
 </div>
 
 </td></tr></table>  
