@@ -70,6 +70,7 @@
 <code><img style="margin: 10px" title="GitHub" height="45" src="images/github.png"></code>  
 <code><img style="margin: 10px" title="Heroku" height="45" src="images/heroku.png"></code>  
 <code><img style="margin: 10px" title="Vercel" height="45" src="images/vercel.png"></code>  
+<code><img style="margin: 10px" title="VSCode" height="45" src="images/vscode.png"></code>  
 <code><img style="margin: 10px" title="Netlify" height="45" src="images/netlify.png"></code>  
 <code><img style="margin: 10px" title="Jest" height="45" src="images/jest.png"></code>  
 <code><img style="margin: 10px" title="GitKraken" height="45" src="images/gitkraken.png"></code>  
