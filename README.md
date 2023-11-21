@@ -116,6 +116,9 @@
   <a align="right" href="https://github.com/OktayRasimov/personal-project" title="Personal Project Base"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayrasimov&repo=personal-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/OktayRasimov/weather-app-node" title="WeatherApp-Node"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayrasimov&repo=weather-app-node&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
 <h4 align="center">
   <a href="https://github.com/OktayRasimov?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
