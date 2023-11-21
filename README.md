@@ -117,9 +117,10 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/OktayRasimov/car-project" title="Car Rental Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayrasimov&repo=car-project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/OktayRasimov/car-project" title="Car Rental Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayrasimov&repo=car-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
+<br/>
+<hr>
 <h4 align="center">
   <a href="https://github.com/OktayRasimov?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
