@@ -19,7 +19,7 @@
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
--Learning Next.js
+-Building projects with Next.js
 ```
 
 <hr>
