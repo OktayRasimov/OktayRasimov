@@ -19,7 +19,7 @@
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
--Learning the weird parts of node.js + ecosystem
+-Learning Next.js
 ```
 
 <hr>
