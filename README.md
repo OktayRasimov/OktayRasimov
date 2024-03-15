@@ -37,6 +37,7 @@
 <code><img style="margin: 10px" title="HTML" height="45" src="images/html.png"></code>
 <code><img style="margin: 10px" title="CSS" height="45" src="images/css.png"></code>
 <code><img style="margin: 10px" title="React" height="45" src="images/react.png"></code>
+<code><img style="margin: 10px" title="Next" height="45" src="images/next.png"></code>
 <code><img style="margin: 10px" title="ReactQuery" height="45" src="images/reactQuery.png"></code>
 <code><img style="margin: 10px" title="Redux" height="45" src="images/redux.png"></code>
 <code><img style="margin: 10px" title="TypeScript" height="45" src="images/typescript.png"></code>
