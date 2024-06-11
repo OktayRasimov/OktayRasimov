@@ -21,63 +21,66 @@
 ```
 
 <hr>
-<h3 align="center">🔥 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 & 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 & 𝘛𝘰𝘰𝘭𝘴 🔥</h3>
+<h3 align="center">🔥 Languages, Frameworks & Tools 🔥</h3>
 <br/>
 
- 
-<table><tr><td valign="top" width="33%">
-
-
-
-<h3 align='center'>𝗙𝗿𝗼𝗻𝘁 𝗘𝗻𝗱</h3>
-<div align="center">  
+<table><tr>
+<td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
+<h3 align='center'>𝗠𝗮𝗶𝗻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
+<div align="center">
 <code><img style="margin: 10px" title="JavaScript" height="45" src="images/js.png"></code>
+<code><img style="margin: 10px" title="Java" height="45" src="images/java.png"></code>
+<code><img style="margin: 10px" title="Python" height="45" src="images/python.png"></code>
+</div>
+</td>
+<td valign="top" width="33%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<h3 align='center'>𝗙𝗿𝗼𝗻𝘁 𝗘𝗻𝗱</h3>
+<div align="center">
 <code><img style="margin: 10px" title="HTML" height="45" src="images/html.png"></code>
 <code><img style="margin: 10px" title="CSS" height="45" src="images/css.png"></code>
 <code><img style="margin: 10px" title="React" height="45" src="images/react.png"></code>
-<code><img style="margin: 10px" title="Next" height="45" src="images/next.png"></code>
-<code><img style="margin: 10px" title="ReactQuery" height="45" src="images/reactQuery.png"></code>
-<code><img style="margin: 10px" title="Redux" height="45" src="images/redux.png"></code>
 <code><img style="margin: 10px" title="TypeScript" height="45" src="images/typescript.png"></code>
+<code><img style="margin: 10px" title="Next.js" height="45" src="images/next.png"></code>
+<code><img style="margin: 10px" title="Redux" height="45" src="images/redux.png"></code>
 <code><img style="margin: 10px" title="SASS" height="45" src="images/sass.png"></code>
-<code><img style="margin: 10px" title="StyledComponents" height="45" src="images/styledComponents.png"></code>
 <code><img style="margin: 10px" title="Tailwind" height="45" src="images/tailwind.png"></code>
+<code><img style="margin: 10px" title="StyledComponents" height="45" src="images/styledComponents.png"></code>
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h3 align='center'>𝗕𝗮𝗰𝗸𝗘𝗻𝗱</h3>
-<div align="center">  
-<code><img style="margin: 10px" title="NodeJS" height="45" src="images/node.png"></code> 
-<code><img style="margin: 10px" title="express.js" height="45" src="images/express.png"></code> 
-<code><img style="margin: 10px" title="MongoDB" height="45" src="images/mongoDB.png"></code> 
-<code><img style="margin: 10px" title="Mongoose" height="45" src="images/mongoose.png"></code> 
-<code><img style="margin: 10px" title="Supabase" height="45" src="images/supabase.png"></code> 
+</td>
+<td valign="top" width="33%">
+<h3 align='center'>𝗕𝗮𝗰𝗸 𝗘𝗻𝗱</h3>
+<div align="center">
+<code><img style="margin: 10px" title="NodeJS" height="45" src="images/node.png"></code>
+<code><img style="margin: 10px" title="Express.js" height="45" src="images/express.png"></code>
+<code><img style="margin: 10px" title="MongoDB" height="45" src="images/mongoDB.png"></code>
+<code><img style="margin: 10px" title="Mongoose" height="45" src="images/mongoose.png"></code>
+<code><img style="margin: 10px" title="Supabase" height="45" src="images/supabase.png"></code>
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
+</td>
+<td valign="top" width="33%">
 <h3 align='center'>𝗢𝘁𝗵𝗲𝗿 𝗧𝗼𝗼𝗹𝘀</h3>
-<div align="center">  
-<code><img style="margin: 10px" title="FramerMotion" height="45" src="images/framermotion.png"></code>  
-<code><img style="margin: 10px" title="GSAP" height="45" src="images/gsap.png"></code>  
-<code><img style="margin: 10px" title="Git" height="45" src="images/git.png"></code>  
-<code><img style="margin: 10px" title="GitHub" height="45" src="images/github.png"></code>  
-<code><img style="margin: 10px" title="Heroku" height="45" src="images/heroku.png"></code>  
-<code><img style="margin: 10px" title="Vercel" height="45" src="images/vercel.png"></code>  
-<code><img style="margin: 10px" title="VSCode" height="45" src="images/vscode.png"></code>  
-<code><img style="margin: 10px" title="Netlify" height="45" src="images/netlify.png"></code>  
-<code><img style="margin: 10px" title="Jest" height="45" src="images/jest.png"></code>  
-<code><img style="margin: 10px" title="GitKraken" height="45" src="images/gitkraken.png"></code>  
-<code><img style="margin: 10px" title="Webpack" height="45" src="images/webpack.png"></code>  
-<code><img style="margin: 10px" title="MaterialUi" height="45" src="images/materialui.png"></code>  
+<div align="center">
+<code><img style="margin: 10px" title="Git" height="45" src="images/git.png"></code>
+<code><img style="margin: 10px" title="GitHub" height="45" src="images/github.png"></code>
+<code><img style="margin: 10px" title="Heroku" height="45" src="images/heroku.png"></code>
+<code><img style="margin: 10px" title="Vercel" height="45" src="images/vercel.png"></code>
+<code><img style="margin: 10px" title="Netlify" height="45" src="images/netlify.png"></code>
+<code><img style="margin: 10px" title="VSCode" height="45" src="images/vscode.png"></code>
+<code><img style="margin: 10px" title="Jest" height="45" src="images/jest.png"></code>
+<code><img style="margin: 10px" title="GitKraken" height="45" src="images/gitkraken.png"></code>
+<code><img style="margin: 10px" title="Webpack" height="45" src="images/webpack.png"></code>
+<code><img style="margin: 10px" title="MaterialUI" height="45" src="images/materialui.png"></code>
+<code><img style="margin: 10px" title="FramerMotion" height="45" src="images/framermotion.png"></code>
+<code><img style="margin: 10px" title="GSAP" height="45" src="images/gsap.png"></code>
 </div>
-
-</td></tr></table>  
+</td>
+</tr></table>
 <hr>
 
 <h2 align="center">⚡ 𝗦𝘁𝗮𝘁𝘀 ⚡</h2>
