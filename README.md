@@ -27,9 +27,10 @@
 <table><tr>
 <td valign="top" width="33%">
 </td>
+<td valign="top" width="33%"></td>
 <td valign="top" width="33%">
 <h3 align='center'>𝗠𝗮𝗶𝗻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
-<div align="center">
+<div align="center" style="padding: 20px 0;">
 <code><img style="margin: 10px" title="JavaScript" height="45" src="images/js.png"></code>
 <code><img style="margin: 10px" title="Java" height="45" src="images/java.png"></code>
 <code><img style="margin: 10px" title="Python" height="45" src="images/python.png"></code>
