@@ -27,7 +27,6 @@
 <table><tr>
 <td valign="top" width="33%">
 </td>
-<td valign="top" width="33%"></td>
 <td valign="top" width="33%">
 <h3 align='center'>𝗠𝗮𝗶𝗻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
 <div align="center" style="padding: 20px 0;">
