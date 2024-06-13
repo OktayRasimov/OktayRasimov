@@ -17,7 +17,7 @@
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
--Building projects with Next.js
+-Building projects with Java
 ```
 
 <hr>
